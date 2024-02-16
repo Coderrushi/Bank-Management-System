@@ -1,0 +1,1 @@
+User interface designed using AWT and Swing for Banking functionalities such as new account, deposit and withdrawal of money, PIN change and bank statement can be performed and all the user data is stored in MySQL databse.
